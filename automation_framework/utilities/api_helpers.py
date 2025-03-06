@@ -1,5 +1,4 @@
 import requests
-import random
 from automation_framework.utilities.config_reader import *
 class ApiHelper:
     BASE_URL = config['DEFAULT']['BASE_URL']
@@ -7,7 +6,7 @@ class ApiHelper:
     CITY_IDS = [11263, 14177, 18093, 3516149, 3516168, 3516188]
 
     def get_current_weather(self, city):
-        url = f"{self.BASE_URL}?q={city}&appid={self.API_KEY}"
+        url = f"{self.BASE_URL}?q={city}&appid={self.API_KEY}&units=metric"
         print(url)
         response = requests.get(url)
         print(response)

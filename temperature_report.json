@@ -1,0 +1,614 @@
+[
+    {
+        "city": "Abberton",
+        "openweather_temp": 14.73,
+        "timeanddate_temp": 13,
+        "temperature_diff": 1.7300000000000004
+    },
+    {
+        "city": "Abbots Langley",
+        "openweather_temp": 16.86,
+        "timeanddate_temp": 17,
+        "temperature_diff": 0.14000000000000057
+    },
+    {
+        "city": "Aberaeron",
+        "openweather_temp": 12.5,
+        "timeanddate_temp": 17,
+        "temperature_diff": 4.5
+    },
+    {
+        "city": "Aberchirder",
+        "openweather_temp": 13.27,
+        "timeanddate_temp": 12,
+        "temperature_diff": 1.2699999999999996
+    },
+    {
+        "city": "Abercynon",
+        "openweather_temp": 12.1,
+        "timeanddate_temp": 11,
+        "temperature_diff": 1.0999999999999996
+    },
+    {
+        "city": "Aberdare",
+        "openweather_temp": 11.85,
+        "timeanddate_temp": 12,
+        "temperature_diff": 0.15000000000000036
+    },
+    {
+        "city": "Aberdeen",
+        "openweather_temp": 12.75,
+        "timeanddate_temp": 24,
+        "temperature_diff": 11.25
+    },
+    {
+        "city": "Aberfeldy",
+        "openweather_temp": 12.49,
+        "timeanddate_temp": -5,
+        "temperature_diff": 17.490000000000002
+    },
+    {
+        "city": "Aberford",
+        "openweather_temp": 17.56,
+        "timeanddate_temp": 2,
+        "temperature_diff": 15.559999999999999
+    },
+    {
+        "city": "Aberfoyle",
+        "openweather_temp": 14.96,
+        "timeanddate_temp": 12,
+        "temperature_diff": 2.960000000000001
+    },
+    {
+        "city": "Abergavenny",
+        "openweather_temp": 14.66,
+        "timeanddate_temp": 11,
+        "temperature_diff": 3.66
+    },
+    {
+        "city": "Abergele",
+        "openweather_temp": 18.17,
+        "timeanddate_temp": 5,
+        "temperature_diff": 13.170000000000002
+    },
+    {
+        "city": "Abergwynfi",
+        "openweather_temp": 11.84,
+        "timeanddate_temp": 11,
+        "temperature_diff": 0.8399999999999999
+    },
+    {
+        "city": "Abergynolwyn",
+        "openweather_temp": 16.88,
+        "timeanddate_temp": 17,
+        "temperature_diff": 0.120000000000001
+    },
+    {
+        "city": "Aberkenfig",
+        "openweather_temp": 11.74,
+        "timeanddate_temp": 11,
+        "temperature_diff": 0.7400000000000002
+    },
+    {
+        "city": "Abersychan",
+        "openweather_temp": 11.51,
+        "timeanddate_temp": 12,
+        "temperature_diff": 0.4900000000000002
+    },
+    {
+        "city": "Abertillery",
+        "openweather_temp": 11.31,
+        "timeanddate_temp": 11,
+        "temperature_diff": 0.3100000000000005
+    },
+    {
+        "city": "Aberystwyth",
+        "openweather_temp": 12.53,
+        "timeanddate_temp": 17,
+        "temperature_diff": 4.470000000000001
+    },
+    {
+        "city": "Abingdon",
+        "openweather_temp": 16.16,
+        "timeanddate_temp": 2,
+        "temperature_diff": 14.16
+    },
+    {
+        "city": "Aboyne",
+        "openweather_temp": 13.61,
+        "timeanddate_temp": 30,
+        "temperature_diff": 16.39
+    },
+    {
+        "city": "Accrington",
+        "openweather_temp": 15.24,
+        "timeanddate_temp": 15,
+        "temperature_diff": 0.2400000000000002
+    },
+    {
+        "city": "Acton",
+        "openweather_temp": 16.84,
+        "timeanddate_temp": 0,
+        "temperature_diff": 16.84
+    },
+    {
+        "city": "Addington",
+        "openweather_temp": 14.69,
+        "timeanddate_temp": 2,
+        "temperature_diff": 12.69
+    },
+    {
+        "city": "Addlestone",
+        "openweather_temp": 16.13,
+        "timeanddate_temp": 14,
+        "temperature_diff": 2.129999999999999
+    },
+    {
+        "city": "Adlingfleet",
+        "openweather_temp": 16.78,
+        "timeanddate_temp": 17,
+        "temperature_diff": 0.21999999999999886
+    },
+    {
+        "city": "Aghalee",
+        "openweather_temp": 11.25,
+        "timeanddate_temp": 17,
+        "temperature_diff": 5.75
+    },
+    {
+        "city": "Aintree",
+        "openweather_temp": 18.99,
+        "timeanddate_temp": 34,
+        "temperature_diff": 15.010000000000002
+    },
+    {
+        "city": "Airdrie",
+        "openweather_temp": 13.75,
+        "timeanddate_temp": 29,
+        "temperature_diff": 15.25
+    },
+    {
+        "city": "Akeley",
+        "openweather_temp": 16.07,
+        "timeanddate_temp": 37,
+        "temperature_diff": 20.93
+    },
+    {
+        "city": "Albrighton",
+        "openweather_temp": 14.98,
+        "timeanddate_temp": 14,
+        "temperature_diff": 0.9800000000000004
+    },
+    {
+        "city": "Alcester",
+        "openweather_temp": 15.83,
+        "timeanddate_temp": 28,
+        "temperature_diff": 12.17
+    },
+    {
+        "city": "Aldeburgh",
+        "openweather_temp": 15.08,
+        "timeanddate_temp": 5,
+        "temperature_diff": 10.08
+    },
+    {
+        "city": "Alderholt",
+        "openweather_temp": 13.44,
+        "timeanddate_temp": 10,
+        "temperature_diff": 3.4399999999999995
+    },
+    {
+        "city": "Alderley Edge",
+        "openweather_temp": 15.76,
+        "timeanddate_temp": 16,
+        "temperature_diff": 0.2400000000000002
+    },
+    {
+        "city": "Aldermaston",
+        "openweather_temp": 15.29,
+        "timeanddate_temp": 5,
+        "temperature_diff": 10.29
+    },
+    {
+        "city": "Aldershot",
+        "openweather_temp": 15.37,
+        "timeanddate_temp": 10,
+        "temperature_diff": 5.369999999999999
+    },
+    {
+        "city": "Aldridge",
+        "openweather_temp": 14.59,
+        "timeanddate_temp": -6,
+        "temperature_diff": 20.59
+    },
+    {
+        "city": "Alexandria",
+        "openweather_temp": 17.82,
+        "timeanddate_temp": 20,
+        "temperature_diff": 2.1799999999999997
+    },
+    {
+        "city": "Alfold",
+        "openweather_temp": 14.97,
+        "timeanddate_temp": 5,
+        "temperature_diff": 9.97
+    },
+    {
+        "city": "Alford",
+        "openweather_temp": 13.42,
+        "timeanddate_temp": 6,
+        "temperature_diff": 7.42
+    },
+    {
+        "city": "Alfreton",
+        "openweather_temp": 15.81,
+        "timeanddate_temp": 16,
+        "temperature_diff": 0.1899999999999995
+    },
+    {
+        "city": "Alloa",
+        "openweather_temp": 13.27,
+        "timeanddate_temp": 13,
+        "temperature_diff": 0.2699999999999996
+    },
+    {
+        "city": "Alness",
+        "openweather_temp": 12.19,
+        "timeanddate_temp": 10,
+        "temperature_diff": 2.1899999999999995
+    },
+    {
+        "city": "Alnwick",
+        "openweather_temp": 14.93,
+        "timeanddate_temp": 5,
+        "temperature_diff": 9.93
+    },
+    {
+        "city": "Alresford",
+        "openweather_temp": 14.82,
+        "timeanddate_temp": 5,
+        "temperature_diff": 9.82
+    },
+    {
+        "city": "Alrewas",
+        "openweather_temp": 15.63,
+        "timeanddate_temp": 5,
+        "temperature_diff": 10.63
+    },
+    {
+        "city": "Alsager",
+        "openweather_temp": 15.54,
+        "timeanddate_temp": 17,
+        "temperature_diff": 1.4600000000000009
+    },
+    {
+        "city": "Alston",
+        "openweather_temp": 14.42,
+        "timeanddate_temp": 14,
+        "temperature_diff": 0.41999999999999993
+    },
+    {
+        "city": "Altham",
+        "openweather_temp": 15.73,
+        "timeanddate_temp": 5,
+        "temperature_diff": 10.73
+    },
+    {
+        "city": "Alton",
+        "openweather_temp": -1.23,
+        "timeanddate_temp": 2,
+        "temperature_diff": 3.23
+    },
+    {
+        "city": "Altrincham",
+        "openweather_temp": 15.87,
+        "timeanddate_temp": 15,
+        "temperature_diff": 0.8699999999999992
+    },
+    {
+        "city": "Alva",
+        "openweather_temp": 11.04,
+        "timeanddate_temp": 5,
+        "temperature_diff": 6.039999999999999
+    },
+    {
+        "city": "Alvechurch",
+        "openweather_temp": 15.13,
+        "timeanddate_temp": 27,
+        "temperature_diff": 11.87
+    },
+    {
+        "city": "Alveston",
+        "openweather_temp": 14.29,
+        "timeanddate_temp": 16,
+        "temperature_diff": 1.7100000000000009
+    },
+    {
+        "city": "Ambleside",
+        "openweather_temp": 12.96,
+        "timeanddate_temp": 17,
+        "temperature_diff": 4.039999999999999
+    },
+    {
+        "city": "Amersham",
+        "openweather_temp": 16.58,
+        "timeanddate_temp": 7,
+        "temperature_diff": 9.579999999999998
+    },
+    {
+        "city": "Amesbury",
+        "openweather_temp": 10.93,
+        "timeanddate_temp": -7,
+        "temperature_diff": 17.93
+    },
+    {
+        "city": "Amlwch",
+        "openweather_temp": 12.88,
+        "timeanddate_temp": 27,
+        "temperature_diff": 14.12
+    },
+    {
+        "city": "Ammanford",
+        "openweather_temp": 13.54,
+        "timeanddate_temp": 7,
+        "temperature_diff": 6.539999999999999
+    },
+    {
+        "city": "Ampthill",
+        "openweather_temp": 17.12,
+        "timeanddate_temp": 18,
+        "temperature_diff": 0.879999999999999
+    },
+    {
+        "city": "Andover",
+        "openweather_temp": 14,
+        "timeanddate_temp": 16,
+        "temperature_diff": 2
+    },
+    {
+        "city": "Angmering",
+        "openweather_temp": 11.94,
+        "timeanddate_temp": 12,
+        "temperature_diff": 0.0600000000000005
+    },
+    {
+        "city": "Anlaby",
+        "openweather_temp": 17.17,
+        "timeanddate_temp": 19,
+        "temperature_diff": 1.8299999999999983
+    },
+    {
+        "city": "Annalong",
+        "openweather_temp": 8.62,
+        "timeanddate_temp": 7,
+        "temperature_diff": 1.6199999999999992
+    },
+    {
+        "city": "Annan",
+        "openweather_temp": 13.07,
+        "timeanddate_temp": -6,
+        "temperature_diff": 19.07
+    },
+    {
+        "city": "Annesley",
+        "openweather_temp": 15.7,
+        "timeanddate_temp": 6,
+        "temperature_diff": 9.7
+    },
+    {
+        "city": "Anniesland",
+        "openweather_temp": 13.71,
+        "timeanddate_temp": 14,
+        "temperature_diff": 0.28999999999999915
+    },
+    {
+        "city": "Anstey",
+        "openweather_temp": 16.29,
+        "timeanddate_temp": 1,
+        "temperature_diff": 15.29
+    },
+    {
+        "city": "Anstruther",
+        "openweather_temp": 12.64,
+        "timeanddate_temp": 1,
+        "temperature_diff": 11.64
+    },
+    {
+        "city": "Antrim",
+        "openweather_temp": 11.19,
+        "timeanddate_temp": 30,
+        "temperature_diff": 18.810000000000002
+    },
+    {
+        "city": "Appleby",
+        "openweather_temp": 16.69,
+        "timeanddate_temp": 0,
+        "temperature_diff": 16.69
+    },
+    {
+        "city": "Appleford",
+        "openweather_temp": 16.15,
+        "timeanddate_temp": 17,
+        "temperature_diff": 0.8500000000000014
+    },
+    {
+        "city": "Appleton",
+        "openweather_temp": -5.16,
+        "timeanddate_temp": 0,
+        "temperature_diff": 5.16
+    },
+    {
+        "city": "Appley Bridge",
+        "openweather_temp": 15.51,
+        "timeanddate_temp": 15,
+        "temperature_diff": 0.5099999999999998
+    },
+    {
+        "city": "Arbroath",
+        "openweather_temp": 13.99,
+        "timeanddate_temp": 13,
+        "temperature_diff": 0.9900000000000002
+    },
+    {
+        "city": "Ardingly",
+        "openweather_temp": 14.42,
+        "timeanddate_temp": 2,
+        "temperature_diff": 12.42
+    },
+    {
+        "city": "Ardrossan",
+        "openweather_temp": 12.54,
+        "timeanddate_temp": 18,
+        "temperature_diff": 5.460000000000001
+    },
+    {
+        "city": "Arlesey",
+        "openweather_temp": 17.12,
+        "timeanddate_temp": 35,
+        "temperature_diff": 17.88
+    },
+    {
+        "city": "Arley",
+        "openweather_temp": 1.52,
+        "timeanddate_temp": 14,
+        "temperature_diff": 12.48
+    },
+    {
+        "city": "Armadale",
+        "openweather_temp": 26.63,
+        "timeanddate_temp": 18,
+        "temperature_diff": 8.629999999999999
+    },
+    {
+        "city": "Armagh",
+        "openweather_temp": 11.66,
+        "timeanddate_temp": 10,
+        "temperature_diff": 1.6600000000000001
+    },
+    {
+        "city": "Armitage",
+        "openweather_temp": 15.27,
+        "timeanddate_temp": -15,
+        "temperature_diff": 30.27
+    },
+    {
+        "city": "Arnold",
+        "openweather_temp": 16.71,
+        "timeanddate_temp": 9,
+        "temperature_diff": 7.710000000000001
+    },
+    {
+        "city": "Arrochar",
+        "openweather_temp": 9.93,
+        "timeanddate_temp": 26,
+        "temperature_diff": 16.07
+    },
+    {
+        "city": "Arthog",
+        "openweather_temp": 17.04,
+        "timeanddate_temp": 18,
+        "temperature_diff": 0.9600000000000009
+    },
+    {
+        "city": "Arundel",
+        "openweather_temp": 6.86,
+        "timeanddate_temp": 18,
+        "temperature_diff": 11.14
+    },
+    {
+        "city": "Ascot",
+        "openweather_temp": 15.67,
+        "timeanddate_temp": 5,
+        "temperature_diff": 10.67
+    },
+    {
+        "city": "Ash",
+        "openweather_temp": 12.66,
+        "timeanddate_temp": 15,
+        "temperature_diff": 2.34
+    },
+    {
+        "city": "Ash Vale",
+        "openweather_temp": 15.4,
+        "timeanddate_temp": 21,
+        "temperature_diff": 5.6
+    },
+    {
+        "city": "Ashbourne",
+        "openweather_temp": 13.83,
+        "timeanddate_temp": 29,
+        "temperature_diff": 15.17
+    },
+    {
+        "city": "Ashby de la Launde",
+        "openweather_temp": 17.16,
+        "timeanddate_temp": 13,
+        "temperature_diff": 4.16
+    },
+    {
+        "city": "Ashby de la Zouch",
+        "openweather_temp": 15.56,
+        "timeanddate_temp": 15,
+        "temperature_diff": 0.5600000000000005
+    },
+    {
+        "city": "Ashdon",
+        "openweather_temp": 17.45,
+        "timeanddate_temp": 21,
+        "temperature_diff": 3.5500000000000007
+    },
+    {
+        "city": "Ashen",
+        "openweather_temp": 15.75,
+        "timeanddate_temp": 26,
+        "temperature_diff": 10.25
+    },
+    {
+        "city": "Ashfield",
+        "openweather_temp": 7.03,
+        "timeanddate_temp": -5,
+        "temperature_diff": 12.030000000000001
+    },
+    {
+        "city": "Ashford",
+        "openweather_temp": 11.94,
+        "timeanddate_temp": 23,
+        "temperature_diff": 11.06
+    },
+    {
+        "city": "Ashington",
+        "openweather_temp": 11.79,
+        "timeanddate_temp": 18,
+        "temperature_diff": 6.210000000000001
+    },
+    {
+        "city": "Ashley",
+        "openweather_temp": 3.93,
+        "timeanddate_temp": 15,
+        "temperature_diff": 11.07
+    },
+    {
+        "city": "Ashmore",
+        "openweather_temp": 21.88,
+        "timeanddate_temp": -19,
+        "temperature_diff": 40.879999999999995
+    },
+    {
+        "city": "Ashtead",
+        "openweather_temp": 15.34,
+        "timeanddate_temp": 35,
+        "temperature_diff": 19.66
+    },
+    {
+        "city": "Ashton in Makerfield",
+        "openweather_temp": 15.1,
+        "timeanddate_temp": 35,
+        "temperature_diff": 19.9
+    },
+    {
+        "city": "Ashton-under-Lyne",
+        "openweather_temp": 16.44,
+        "timeanddate_temp": 35,
+        "temperature_diff": 18.56
+    }
+]
